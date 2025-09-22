@@ -1,4 +1,4 @@
-# priyamdiksha020591
+                                                        Diksha Priyam
 Diksha Priyam - Software Testing Portfolio
 This repository serves as a portfolio showcasing my experience and expertise in software testing and quality assurance. It includes my resume, outlining my skills, professional experience, and projects.
 
@@ -14,6 +14,6 @@ Database: Oracle SQL
 Methodologies: Agile, Scrum, Kanban.
 
 How to Connect
-LinkedIn: www.linkedin.com/in/sonalkajrrolkar
-Email: kajrolkar1995@gmail.com
+LinkedIn: https://www.linkedin.com/in/diksha-priyam-2a185654/
+Email: priyamdiksha0205@outlook.com
 Thank you for visiting!
