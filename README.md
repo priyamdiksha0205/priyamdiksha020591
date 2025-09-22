@@ -1,5 +1,5 @@
-                                                        Diksha Priyam
-Diksha Priyam - Software Testing Portfolio
+                             Diksha Priyam - Software Testing Portfolio
+
 This repository serves as a portfolio showcasing my experience and expertise in software testing and quality assurance. It includes my resume, outlining my skills, professional experience, and projects.
 
 About Me
