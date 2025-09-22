@@ -14,6 +14,7 @@ Database: Oracle SQL
 Methodologies: Agile, Scrum, Kanban.
 
 How to Connect
+
 LinkedIn: https://www.linkedin.com/in/diksha-priyam-2a185654/
 
 Email: priyamdiksha0205@outlook.com
